@@ -11,13 +11,6 @@ namespace Update_NV
             IWebDriver driver = new ChromeDriver();
             driver.Url = "https://nuget-tutorial.net/en/tutorial/100010/package-manager-ui";
 
-            IWebDriver driver1 = new ChromeDriver();
-            driver.Url = "https://nuget-tutorial.net/en/tutorial/100010/package-manager-ui";
-
-            IWebDriver driver3 = new ChromeDriver();
-            driver.Url = "https://nuget-tutorial.net/en/tutorial/100010/package-manager-ui";
- 
-
 
 
         }
